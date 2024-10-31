@@ -1,0 +1,66 @@
+.api_ctn {
+  background: #01203F;
+  height: 80vh;
+  padding: 50px;
+  color: #fff;
+}
+#oras_api {
+  min-width: 274px;
+  margin-bottom:20px;
+}
+.api_ctn,
+.api_ctn a {
+  color: #fff;
+}
+.settings_page_oras #wpcontent {
+  padding-left: 0px;
+}
+.settings_page_oras #wpwrap {
+  background: #01203f;
+}
+.settings_page_oras .api_ctn h2 {
+  color: #e83f3a;
+  font-size: 2.7em;
+  margin: 1em 0;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 700;
+}
+.settings_page_oras .api_ctn form {
+  padding: 15px 0 2px;
+}
+.settings_page_oras label {
+  color: white;
+  font-size: 22px;
+  margin: 0 13px 0 0;
+  font-family: "Open Sans", sans-serif;
+}
+.settings_page_oras .api_ctn p {
+  color: white;
+  font-family: "Open Sans", sans-serif;
+}
+.settings_page_oras p.btn-wrapper {
+  margin-top: 27px;
+}
+.settings_page_oras input.button.button-primary {
+  background: none;
+  color: white;
+  width: 386px;
+  padding: 3px;
+  border: 2px solid white;
+  font-size: 16px;
+  text-transform: uppercase;
+  font-family: "Open Sans", sans-serif;
+}
+.settings_page_oras input.button.button-primary:hover {
+  background: #e83f3a;
+  border: 2px solid white;
+}
+.settings_page_oras p.madeby {
+  font-size: 10px;
+  margin-top: 60px;
+}
+
+.oras_input_container {
+  margin-bottom: 20px;
+  display:block;
+}
